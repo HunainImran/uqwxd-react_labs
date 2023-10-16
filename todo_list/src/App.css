@@ -77,4 +77,8 @@ h1 {
   #completed {
     margin-left: 15px;
   }
-
+  .delete-button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
